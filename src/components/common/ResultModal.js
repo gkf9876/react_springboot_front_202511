@@ -25,7 +25,7 @@ const ResultModal = ({title, content, callbackFn}) => {
                 </div>
             </div>
         </div>
-    )
+    );
 }
 
 export default ResultModal;
